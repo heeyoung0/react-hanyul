@@ -1,0 +1,21 @@
+
+nav {
+    width: 780px;
+    font-family: 'Raleway', sans-serif;
+    background: #c09c7ccc;
+    padding: 15px 0;
+}
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 30px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.footer {
+    width: 780px;
+    font-family: 'Raleway', sans-serif;
+    background: #c09c7c3f;
+    padding: 50px 0;
+    font-size: 15px;
+}
